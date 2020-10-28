@@ -1,5 +1,9 @@
 # browserslist-config-fluid
 
+[![License: BSD 3-Clause](https://badgen.net/github/license/fluid-project/browserslist-config-fluid/)](https://github.com/fluid-project/browserslist-config-fluid/blob/main/LICENSE.md)
+[![Latest Release](https://badgen.net/github/release/fluid-project/browserslist-config-fluid/)](https://github.com/fluid-project/browserslist-config-fluid/releases/latest/)
+[![NPM Package](https://badgen.net/npm/v/browserslist-config-fluid)](https://www.npmjs.com/package/browserslist-config-fluid)
+
 Shareable Browserslist config for the Fluid Project.
 
 ## Usage
